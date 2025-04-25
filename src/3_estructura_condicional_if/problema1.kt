@@ -16,7 +16,4 @@ fun main() {
     if (promedio >= 7)
         print ("elestudiante esta promocionado")
 
-}else{
-    print("el estudiante no paso el año")
-    }
 }
